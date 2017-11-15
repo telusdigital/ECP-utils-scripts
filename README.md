@@ -2,7 +2,7 @@
 
 ## To install
 ```bash
-git clone https://github.com/telusdigital/ECP-utils-scripts.git && cdECP-utils-scripts
+git clone https://github.com/telusdigital/ECP-utils-scripts.git && cd ECP-utils-scripts
 npm install
 ```
 
