@@ -1,0 +1,16 @@
+{
+  "name": "ecp-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create-asset-list": "node ./src/assetListToCsv.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "contentful-management": "^4.1.0",
+    "json2csv": "^3.11.5"
+  }
+}
